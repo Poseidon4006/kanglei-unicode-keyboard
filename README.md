@@ -17,3 +17,5 @@ Once installed, you can switch between English and Meitei Mayek using either of 
 
 ## 🖋️ Fonts
 Ensure you have a Meitei Mayek font installed (e.g., Noto Sans Meetei Mayek) to see the characters correctly.
+
+Technical Note: This keyboard was created using the [Microsoft Keyboard Layout Creator (MSKLC) 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134) 
